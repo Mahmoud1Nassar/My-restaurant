@@ -1,6 +1,6 @@
 # My-restaurant
 
-## homepage
+## homepage 
 ![Homepage](wireframe%20images/HomePage.png)
 
 ## menu
